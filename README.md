@@ -1,6 +1,6 @@
 Hi, I'm Soviet-Cat.
 I am a solo developer, specializing in game-dev.
-Feel free to contact me at: harrison.laine@outlook.com
+Feel free to contact me at: harrison.laine@outlook.com or soviet.cat on discord
 
 <!---
 Soviet-Cat/Soviet-Cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
